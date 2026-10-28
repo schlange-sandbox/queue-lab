@@ -3,7 +3,7 @@
   "private": true,
   "description": "Absichtlich veraltete Abhängigkeiten, damit Dependabot echte Patch-, Minor- und Major-PRs öffnet.",
   "dependencies": {
-    "ms": "2.1.1",
+    "ms": "2.1.3",
     "semver": "7.5.0",
     "is-number": "6.0.0"
   }
